@@ -3,7 +3,8 @@
 # Interpretable multiclass classification by MDL-based rule lists
 This repository contains the code for all the experiments in Chapter 3 and of the paper  [Interpretable multiclass classification by MDL-based rule lists. Hugo M. Proença, Matthijs van Leeuwen. (2019) ](https://arxiv.org/abs/1905.00328).
 
-NOTE: this code was inserted here and it is outdated, thus, for the most recent version of the code for Predictive Rule Lists please refer to https://github.com/HMProenca/MDLRuleLists.
+NOTE: this code is outdated but it was inserted here for reproducibility reasons, thus, for the most recent version of the code for Predictive Rule Lists please refer to [https://github.com/HMProenca/RuleList](https://github.com/HMProenca/RuleList).
+.
 
 
 
