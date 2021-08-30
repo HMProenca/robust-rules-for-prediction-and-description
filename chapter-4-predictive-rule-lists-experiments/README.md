@@ -50,9 +50,9 @@ mdl_rulelists.py
 for a simple example using this version of the code:
 
 ```python
- import mdl_rulelists as mdlrl
- filename = "./datasetexample/breast.csv" 
- minsupp = 5 # it is a 5% minimum support threshold
+import mdl_rulelists as mdlrl
+filename = "./datasetexample/breast.csv" 
+minsupp = 5 # it is a 5% minimum support threshold
 maxlen = 4
 data_it, cl,item2class = mdlrl.binary2itemsets(filename) 
 data_train, data_test = divide "data_it" according to your intereststs
