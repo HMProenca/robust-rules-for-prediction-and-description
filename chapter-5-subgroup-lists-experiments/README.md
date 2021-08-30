@@ -2,7 +2,7 @@
 
 # Robust Subgroup Discovery
 
-This repository contains the code for all the experiments of the paper  [Robust subgroup discovery. Hugo M. Proença,Thomas Bäck, Matthijs van Leeuwen. (2021) ](https://arxiv.org/abs/2103.13686).
+This repository contains the code for all the experiments of Chapter 5 and of the paper  [Robust subgroup discovery. Hugo M. Proença,Thomas Bäck, Matthijs van Leeuwen. (2021) ](https://arxiv.org/abs/2103.13686).
 
 For the most recent version of the code for Subgroup Lists please refer to [https://github.com/HMProenca/RuleList](https://github.com/HMProenca/RuleList).
 
